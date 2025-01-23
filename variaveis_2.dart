@@ -1,5 +1,4 @@
-main() {
-  
+main() {  
   var r1 = 2;
   var r2 = 4.56;
   var r3 = "Olá";
