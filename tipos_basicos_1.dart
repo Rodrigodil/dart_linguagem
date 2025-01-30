@@ -5,7 +5,7 @@
   
 */
 
-main () {
+void main () {
     int r1 = 3;
     double r2 = (-5.67).abs();
     double r3 = double.parse("12.765");
