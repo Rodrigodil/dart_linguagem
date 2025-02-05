@@ -6,9 +6,9 @@ class Cliente {
   String email;
 
   Cliente(
-      {this.nome,
-      this.cpf,
-      this.endereco,
-      this.telefone,
-      this.email});
+      {required this.nome,
+      required this.cpf,
+      required this.endereco,
+      required this.telefone,
+      required this.email});
 }
